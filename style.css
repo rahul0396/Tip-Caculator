@@ -1,0 +1,49 @@
+body{
+    background-color: #e85d04;
+    color:#ade8f4;
+}
+
+
+#h1{
+    font-size: 3rem;
+    text-align: center;
+}
+#container{
+    text-align: center;
+}
+#billamount{
+    margin: auto;
+    display: block;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    padding: 0.3rem;
+}
+#service
+{   display: block;
+    margin: auto;
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+#no-of-people{
+    display: block;
+    margin: auto;
+    font-size: 1rem;
+    padding: 0.3rem;
+}
+#submitbtn{
+    margin:auto;
+    margin-top: 2rem;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+}
+label{
+    font-size: 1.5rem;
+}
+
+#output{
+    font-size: 2rem;
+    margin: auto;
+    margin-top: 1rem;
+    border: #ade8f4 solid;
+}
